@@ -6,7 +6,7 @@
 
 ## 1 Paper flowchart
 
-![frame](assets/framework.png)
+![frame](assets/overview.jpg)
 
 
 
